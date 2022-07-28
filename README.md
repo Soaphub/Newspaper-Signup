@@ -23,7 +23,7 @@ The web application where users can provide their name and email id for weekly n
 I was able to:
 
 - View the optimal layout for each of the website's pages depending on their device's screen size.
-- To maintain the user email id using mail chip API.
+- To maintain the user name and email id using mail chip API.
 
 ### Links
 
