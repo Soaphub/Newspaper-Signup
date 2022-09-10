@@ -62,7 +62,7 @@ I was able to:
 
 ## Author
 
-- Website - Ambadi M P (https://enigmatic-journey-79606.herokuapp.com/)
+- Website - [Ambadi](https://enigmatic-journey-79606.herokuapp.com/)
 
 ## Acknowledgments
 
